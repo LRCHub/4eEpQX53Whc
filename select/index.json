@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ワールドワイドワンダー",
+  "base_artist": "MORE MORE JUMP！",
+  "createdAt": "2026-01-13T11:50:58.297537Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ワールドワイドワンダー (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&KAITO)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/01_ワールドワイドワンダー_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&KAITO)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ワールドワイドワンダー",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&KAITO",
+      "has_synced": true,
+      "path": "select/02_ワールドワイドワンダー_MORE_MORE_JUMP!_feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&KAITO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ワールドワイドワンダー -instrumental-",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/03_ワールドワイドワンダー_-instrumental-_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ワールドワイドワンダー",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/04_ワールドワイドワンダー_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ワールドワイドワンダー (feat. 花里みのり & 桐谷遥 & 桃井愛莉 &...",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/05_ワールドワイドワンダー_(feat._花里みのり_&_桐谷遥_&_桃井愛莉_&..._MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ワールドワイドワンダー - Worldwide Wander (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&KAITO)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/06_ワールドワイドワンダー_-_Worldwide_Wander_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&KAITO)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ワールドワイドワンダー (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&KAITO)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/07_ワールドワイドワンダー_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&KAITO)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ワールドワイドワンダー",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": false,
+      "path": "select/pl_01_ワールドワイドワンダー_MORE_MORE_JUMP!.txt"
+    }
+  ]
+}
